@@ -6,15 +6,15 @@ Configurado por padrão para senha de 18 caracteres.
 
 # Instalação
 
-• git clone https://github.com/EfyOliveira/Gerar-senha-py
+* `git clone https://github.com/EfyOliveira/Gerar-senha-py`
 
-• cd Gerar-senha-py
+* `cd Gerar-senha-py`
 
-• apt-get install python
+* `apt-get install python`
 
-• pip install -r requirements.txt
+* `pip install -r requirements.txt`
 
-• python main.py
+* `python main.py`
 
 # Senha gerada na tela!!!
 
